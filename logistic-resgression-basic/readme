@@ -1,0 +1,3 @@
+A basic example of logistic regression that predicts the probability that a particular student will be admitted in an university
+based on marks in two tests.
+Done on MATLAB.
