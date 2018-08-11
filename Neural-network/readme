@@ -1,0 +1,3 @@
+A three layered neural network trained to predict the number in the image.
+The image is drawn randomly from the dataset.
+Done on MATLAB.
