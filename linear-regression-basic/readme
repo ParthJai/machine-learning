@@ -1,0 +1,3 @@
+This is a simple and most basic example of linear regression that predicts the price of a house with respect to size in sq. feet
+based on a dataset.
+All ML problems are done on MATLAB.
